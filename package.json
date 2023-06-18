@@ -1,0 +1,24 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "description": "Static site generator using node.js and javascript",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "dev": "nodemon -e js,md,html --ignore dist/ src/index.js",
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "author": "Suryansh Goel",
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "grey-matter": "^0.0.0",
+    "lint": "^0.8.19",
+    "marked": "^5.1.0",
+    "save": "^2.9.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
