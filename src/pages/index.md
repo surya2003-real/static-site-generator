@@ -4,6 +4,12 @@ author: Suryansh Goel
 date: July 10, 2023
 ---
 
-👋 Welcome fellow Tailwind CSS and miminal monochrome blog fan. This starter template provides a starting point to create your own minimal monochrome blog using Tailwind CSS and vanilla Javascript.
+# 👋 Welcome
 
-The basic blog page layout is available and all using the default Tailwind CSS classes (although there are a few hardcoded style tags). If you are going to use this in your project, you will want to convert the classes into components.
+You have used my static site generator (SSG) to generate this website. I hope you like it.
+
+You can edit `src/index.md` to change content of this page.
+
+Explore other pages by clicking the hyperlinks page 1, page 2 and page 3 on the right on the navigation bar.
+
+## Hope you enjoy the site.
